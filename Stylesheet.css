@@ -1,0 +1,13 @@
+body{
+    width:960;
+}
+
+UL{
+    
+   /* display:block;*/
+}
+
+li{
+    display: inline-block;
+    
+}
