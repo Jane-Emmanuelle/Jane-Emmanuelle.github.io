@@ -1,0 +1,251 @@
+ <!---thirteenth square in the main div--->  
+
+
+     <div class="squarethirteen" style="width: 250px; height: 250px; margin-top: 0px; margin-right: 0px; margin-left:-720; float: right; background-color: grey;">
+       <div class="smallerthirteen" style = "width:200px; height: 200px; background-color: red; list-style-type: none; margin: 25px; padding-top: 2px;">
+         <p class="p3"> Square Thirteen</p>
+         
+         <a href = "citymaps"> <img src = "citymaps2.jpg"> </a>
+       </div>
+     </div> 
+     
+     
+       <!---fourteenth square in the main div--->  
+     <div class="squarefourteen" style="width: 250px; height: 250px; margin-top: -250px; margin-right: 750px; margin-left:1000; float: left; background-color: chartreuse;">
+       <div class="smallerfourteen" style = "width:200px; height: 200px; background-color: red; list-style-type: none; margin: 25px; padding-top: 2px;">
+         <p class="p3"> Square Fourteen</p>
+         
+         <a href = "citymaps"> <img src = "citymaps2.jpg"> </a>
+       </div>
+     </div> 
+     
+       <!---fifteenth square in the main div--->  
+    <!--- <div class="squarefifteen" style="width: 250px; height: 250px; margin-top: 0px; margin-right: 750px;  float:left; background-color: chartreuse;">
+       <div class="smallerfourteen" style = "width:200px; height: 200px; background-color: red; list-style-type: none; margin: 25px; padding-top: 2px;">
+         <p class="p3"> Square Fifteen</p>
+          <p>
+            101 West 49th Street<br>
+            New York, NY 10001 <br>
+         </p>
+         <a href = "citymaps"> <img src = "citymaps2.jpg"> </a>
+       </div>
+     </div> --->
+     
+       <!---sixteenth square in the main div--->  
+     <div class="squaresixteen" style="width: 250px; height: 250px; margin-top: -250px; margin-right: 250px; margin-left:-720; float: right; background-color: blue;">
+       <div class="smallersiwteen" style = "width:200px; height: 200px; background-color: red; list-style-type: none; margin: 25px; padding-top: 2px;">
+         <p class="p3"> Square Sixteen </p>
+        
+       </div>
+     </div> 
+  </div>
+  
+         <!---seventeenth square in the main div--->  
+     <div class="squareseventeen" style="width: 250px; height: 250px; margin-top: -250px; margin-right: 540px; margin-left:-750; float: right; background-color: pink;">
+       <div class="smallersiwteen" style = "width:200px; height: 200px; background-color: red; list-style-type: none; margin: 25px; padding-top: 2px;">
+         <p class="p3"> Square Seventeen </p>
+          
+         <a href = "citymaps"> <img src = "citymaps2.jpg"> </a>
+       </div>
+     </div> 
+     
+     <!---Notes for google fonts in CSS--->
+     
+     font-family: 'Lato', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Muli', sans-serif;
+font-family: 'Oxygen', sans-serif;
+
+
+<!---INDEX PAGE--->
+
+<!DOCTYPE html>
+<html>
+  <head>
+      <link rel="stylesheet" type="text/css" href="stylesheet.css">
+            <!---google fonts for body and headers--->
+        <link href='https://fonts.googleapis.com/css?family=Petit+Formal+Script' rel='stylesheet' type='text/css'>
+          <link href='https://fonts.googleapis.com/css?family=Marck+Script' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/css?family=Lato|Muli|Oxygen|Poiret+One|Raleway|Source+Sans+Pro" rel="stylesheet">
+        
+      <title> The Weirdist</title>
+  </head>
+  
+                                  <!---Website body. Let the fun begin--->
+<body>  
+    <div class ="mainwrapper">
+      <div class="wrapper">
+                                     <!---side navigation bar--->
+        <div class = "side nav" style = " background-color: beige;  width: 250px; height: 750px; margin-top: 10px;">
+                      <a href = "index.html"><img src = "images/logo.png" style = " width: 150px; margin-top: -75px;margin-left:48px;  "/> </a> <!-- positioning of margin-top is not functional. Revisit-->  
+                      
+                                       <!--- Name and title div--->
+      <div class="title" Style = "margin-top: 50px;">
+        <p class = "p1"><a href="index.html" style = "text-decoration: none;" >The Weirdist</a></p>
+         <p class="p2" style =" font-family: 'Petit Formal Script'; size: bold;">
+             <span><strong> A Phantasmagoria</strong></span> </p>
+      </div>
+
+                                           <!---navigation div--->
+       <div class ="nav bar" style="margin-top: 120px;"> <!--- Revisit padding at top. Does not seam to function--->
+        <ul style id= "nav bar">
+          <a href="index.html" style = "text-decoration: none;"><li> About</li></a> 
+            <!---<li><a href="about.html">We Believe</a> </li>--->
+             <a href="gallery.html" style = "text-decoration: none;"><li> Gallery </li></a> 
+            <a href="contact.html" style ="text-decoration: none;"><li>Contact</li></a> 
+          </ul>
+        </div>
+      </div>   
+
+
+     <!---first square in the main div--->
+          
+<div class ="squares" style = "text-align: center;">
+     <div class="squareone" style = "width: 250x; height: 250px; margin-top: -750px; margin-right: 0px; margin-left:250px; float:left; background-color: blue;" >
+       <div class="smallerone" style = "width:225px; height: 225px; background-color: red; list-style-type: none; margin: 12px; padding-top: 1px;">
+         <p class="p3"><strong>About</strong></p>
+          <p> We are a phantasy creation art work store.</p>    
+       </div>
+     </div>
+
+     <!---second square in the main div--->
+     <div class="squaretwo" style="width: 250px; height: 250px;  margin-top:-750px;margin-right: 0px;  margin-left:500px; float: left; background-color: silver;">
+       <div class="smallertwo" style = "width:225px; height: 225px; background-color: red;  list-style-type: none; margin: 12px;padding-top: 1px;">
+         <p class="p3"><strong>Background</strong></p>
+          <p> The owner is a weirdist who like the most sureal of artists, likes knickknacks and the stuff is of phantasies and imagination. </p>
+       </div>
+     </div>
+
+     <!---third square in the main div--->
+     <div class="squarethree" style="width: 250px; height: 250px; margin-top: -750px; margin-right: 0px; margin-left: 750px; float: left;background-color: gold;">
+       <div class="smallerthree" style = "width:225px; height: 225px; background-color: red; list-style-type: none; margin: 12px;padding-top: 2px;">
+         <p class="p3"><strong>What We Do</strong> </p>
+          <p>
+            We take your dreams and turn them into paintings. Or unusual art work from various artists and make dreams out of the imagination out of them.
+         </p>
+       </div>
+     </div>
+
+     <!---fourth square in the main div--->
+     <div class="squarefour" style="width:250px; height: 250px; margin-top: -250px; margin-right: 0px; margin-left:500px; float: left; background-color: orange;">
+       <div class="smallerfour" style = "width:225px; height: 225px; background-color: red;  list-style-type: none; margin: 12px;padding-top: 1px;;">
+         <p class="p3">Contact</p>
+          P: 212 555 5555 <br>
+          E: larissaloup@outlook.com<br>
+       </div>
+     </div>
+
+     <!---fifth square in the main div--->
+
+     <div class="squarefive" style="width: 250px; height: 250px;  margin-top:-500px; margin-right:0px; margin-left: 500px; float: left; background-color: green;">
+      <div class="smallerfive" style = "width:225px; height: 225px; background-color: red;  list-style-type: none; margin: 12px;padding-top: 1px;;">
+        <p class="p3">Quotes</p>
+          <p> "All colours are the friends of their neighbours and the lovers of their opposites". Marc Chagall </p>
+          
+          <p class = "read more" style = "text: hidden;">  <a href = "#"> More </a> <span>"The diginity of the artist lies in his duty of keeping awake the sense of wonder in the world". Marc Chagall</span></p>
+         
+          </p>
+        <!--- <p>
+           </p>
+           
+             <p class="read-more-wrap">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="read-more-target">Libero fuga facilis vel consectetur quos sapiente deleniti eveniet dolores tempore eos deserunt officia quis ab? Excepturi vero tempore minus beatae voluptatem!</span></p>--->
+           
+           
+           
+         <!---<p>
+"Have no fear of perfection. You'll never reach  it". Salvador Dali
+</p>--->
+      </div>  
+    </div>
+
+     <!---sixth square in the main div---> 
+     <div class="squaresix" style="width: 250px; height: 250px; margin-top:-500px; margin-left: 750px; float: left; background-color: black;">
+
+       <div class="smallersix" style = "width:225px; height: 225px; background-color: red;  list-style-type: none; margin: 12px;padding-top: 1px;;">
+         <p class="p3">Social Media</p>
+          <a href = "facebook"><img src = "images/facebook.png" style = " width: 40px; margin-top: 20px; margin-left: 10px; margin-right: 12px;"></a>
+           <a href = "twitter"><img src = "images/Twitter.png" style = " width:40px; margin-right:12px; "></a>
+            <!---<a href = "pinterest"> <img src = "images/pinterest.png" style = " width:40px;"> </a>--->
+             <a href = "instagram"><img src = "images/instagram.png" style = " width:40px; margin-right: 12px;"></a> 
+            
+           <a href = "linkedin"><img src = "images/linkedin.png" style = " width: 40px;  margin-top: 15px; margin-right: 12px; margin-left: 5px;"></a>
+           <a href = "google +"><img src = "images/google+.png" style = " width:40px; margin-right: 10px; margin-left: 8px;"></a>
+          <a href = "youtube"><img src = "images/youtube.png" style = " width:40px;"></a>
+        <!--- <a href = "vimeo"> <img src = "vimeo.png" style = " width:40px;"> </a>--->
+       </div>
+     </div>
+
+     <!---seventh square in the main div---> 
+    <div class="squareseven" style="width: 250px; height: 250px; margin-top: -500px; margin-right:500px; margin-left: 250px; float: right; background-color: pink;">
+       <div class="smallerseven" style = "width:225px; height: 225px; background-color: red;  list-style-type: none; margin: 12px;padding-top: 1px;;">
+         <p class="p3"> Gallery</p>
+          <p>Visit our gallery is full of fun and dreams and things that will make you scream. But if you're a weirdist too. Then come on and take a look.</p>
+       </div>
+     </div>
+     <!---eight square in the main div--->  
+
+     <div class="squareeight" style="width: 250px; height: 250px; margin-top: -250px;  margin-left:250px; float: right; background-color: purple;">
+       <div class="smallereight" style = "width:225px; height: 225px; background-color: red;  list-style-type: none; margin: 12px;padding-top: 1px;;">
+         <p class="p3"> Blog </p>
+        <p>Coming soon! </p>
+       </div>
+     </div>
+
+     <div class="squarenine" style="width: 250px; height: 250px; margin-top: -250px; margin-right: 500px; margin-left:-720; float: right; background-color: chartreuse;">
+       <div class="smallernine" style = "width:225px; height: 225px; background-color: red; list-style-type: none; margin: 12px;padding-top: 1px;;">
+         <p class="p3">Address</p>
+          <p>
+            101 West 49th Street<br>
+            New York, NY 10001 <br>
+         </p>
+         <a href = "maps" ><img src = "images/citymaps.jpg" style ="width: 175px;margin-top: -9px;"></a> 
+       </div>
+     </div> 
+  </div>
+     <!---footer list, left navigation---> 
+     <div class="footer" style = "width:1000px; margin-top: 0px; padding-top: 10px; height: 35px; background-color:#6EC7DB; display:block; position:relative;"> 
+        <ul style = "margin-left: -25px;  margin-right: 10px; float: left; display: inline-block; position: relative;">
+          <a href="Copyright.html" style = "text-decoration: none; margin-right: 5px;">Copyright</a> 
+        <a href="Terms.html" style = "text-decoration: none; margin-right: 5px">Terms</a> 
+      <a href="Privacy.html" style = "text-decoration: none;">Privacy</a>
+       </ul>
+
+       <!---"text-align: right;--->
+       <ul style= " margin-right:15px; margin-left:10px;  float:right; display:inline-block; position: relative;">
+         <a href="index.html" style = "text-decoration: none;">About</a> 
+          <!---<a href="about.html">What We Do</a> --->
+            <a href="gallery.html" style = "text-decoration: none;margin-left: 5px;">Gallery</a> 
+          <a href="contact.html" style = "text-decoration: none; margin-left: 5px">Contact</a> 
+       </ul>
+     </div>  
+  </div>  
+</div>
+      
+</body>
+</html>
+
+  .largesquaresixteen
+{
+    width: 250px; 
+    height: 250px; 
+    margin-top: 250px; 
+    margin-left:500; 
+    float: left;
+    background-color: #0c0de8;
+    position: relative;
+    
+}
+
+.smaller-sixteen
+{
+    width:225px; 
+    height: 225px; 
+    background-color: #ff0000; 
+    list-style-type: none; 
+    margin: 12px; 
+    padding-top: 2px;
+    position: absolute;
+}

@@ -1,0 +1,195 @@
+ .largesquareone
+{
+    width:225px; 
+    height: 225px; 
+    list-style-type: none; 
+    margin: 12px; 
+    padding-top: 2px;
+    margin-left: 0px;
+    float: left; 
+    background-color: #0c0de8; /*code name blue*/
+    
+}
+
+.smaller-one
+{
+    width:225px; 
+    height: 225px; 
+    background-color: #ff0000; 
+    list-style-type: none; 
+    margin: 12px; 
+    padding-top: 1px; 
+}
+
+
+
+
+
+ <!---FIRST SQUARE IN THE MAIN DIV!!---> 
+ 
+div class ="squares" style = "text-align: center;">
+    
+    
+    
+      <!---FIRST SQUARE IN THE MAIN DIV!!---> 
+    <div class = "logosquareone">
+    <div class = " smaller-one" style = "width: 225px; margin-top: -0px; border-style: solid;">
+    <a href = "index.html"><img src = "images/chickenguitar.png" style = "width: 225px;" /></a> 
+    </div>
+    
+      
+<!---SECOND SQUARE IN THE MAIN DIV!! CHAGALL MARRIED COUPLE.---> 
+     <div class="largesquaretwo">
+       <div class="smaller-two">
+         <img src = "artwork/married-couple.jpg" style = "width:225px; margin-top: -0px;">
+       </div>
+     </div>
+     
+
+
+      <!---THIRD SQUARE IN THE MAIN DIV!! CHAGALL FIDDLER ON A ROOF.---> 
+      <div class="largesquarethree">
+        <div class="smaller-three">
+         <img src = "artwork/the-fiddler.jpg" style = "width:225px; margin-top: -0px;">
+        </div>
+     </div>
+     
+     
+     <!---FOURTH SQUARE IN THE MAIN DIV!! CHAGALLS WOMAN WITH VIOLIN.---> 
+     <div class = "largesquarefour">
+       <div class = "smaller-four">
+           <img src = "artwork/womanwithviolin.jpg" style = "width: 225px; margin-top: -0px;" />         
+      
+       </div>
+     </div>
+     
+      <!---FIFTH SQUARE IN THE MAIN DIV!! CHAGALLS RESTING WOMAN.---> 
+     <div class = "largesquarefive">
+      <div class="smaller-five">
+        <img src = "artwork/restingwoman.jpg" style = "width:225px;">
+      </div>  
+     </div>
+
+    <!---SIXTH SQUARE IN THE MAIN DIV!! SKY MOTHER.--->  
+     <div class="largesquaresix">
+       <div class="smaller-six">
+         <img src = "artwork/skymother.jpg" style = "width:225px;">
+       </div>
+     </div>
+     
+       <!---SEVENTH SQUARE IN THE MAIN DIV!! DALI'S FACE OF WAR---> 
+     <div class = "largesquareseven">
+       <div class = "smaller-seven">
+         <img src = "artwork/faceofwar.jpg" style = "width:225px;">
+       </div>
+     </div>
+     
+     
+     
+     <!---EIGHT SQUARE IN THE MAIN DIV!! METAMORPHOSIS OF NARCISSUS - FULL FIGURE---> 
+     <div class="largesquareeight">
+       <div class="smaller-eight">
+         <img src = "artwork/metamorphosisofnarcissus.jpg" style = "width:225px;">
+       </div>
+     </div>
+     
+       <!---NINTH SQUARE IN THE MAIN DIV!! GEOPOLITICUS CHILD WATCHING THE BIRTH OF THE NEW MAN.--->  
+     <div class = "largesquarenine">
+       <div class = "smaller-nine">
+         <img src = "artwork/geopoliticuschildwatchingthebirthofthenewman.jpg" style = "width:225px;">
+       </div>
+     </div> 
+     
+       
+     <!---TENTH SQUARE IN THE MAIN DIV!! DONKEY ON THE ROOF.--->  
+     <div class="largesquareten">
+       <div class="smaller-ten">
+         <p class="p3"> Address 3</p>
+         <img src = "artwork/donkey-on-the-roof.jpg" style = "width:225px;">
+       </div>
+     </div> 
+   
+   <!---ELEVENTH SQUARE IN THE MAIN DIV!!---> 
+     <div class="largesquareeleven">
+       <div class="smaller-eleven">
+        <p class="p3"> Address 2</p>
+        <img src = "artwork/thehandremorse.jpg" style = "width:225px; margin-top: -58px;">
+       </div>
+     </div> 
+
+  <!---TWELFTH SQUARE IN THE MAIN DIV!!--->   
+     <div class="largesquaretwelve">
+       <div class="smaller-twelve">
+         <p class="p3"> Address 1 </p>
+         <img src = "artwork/scenedecirque.jpg" style = "width:225px; margin-top: -58px;">
+       </div>
+     </div>
+    
+     
+        <!---THIRTEETH SQUARE IN THE MAIN DIV!!--->   
+     <div class="largesquarethirteen">
+       <div class="smaller-thirteen">
+         <p class="p3"> Square Thirteen</p>
+        <img src = "artwork/metamorphosisofnarcissus-2.jpg" style = "width:225px; margin-top: -58px;">
+       </div>
+     </div>
+     
+     
+      <!---FOURTEENTH SQUARE IN THE MAIN DIV!!---> 
+     <div class="largesquarefourteen">
+       <div class="smaller-fourteen">
+         <p class="p3"> Square Fourteen </p>
+         <img src = "artwork/ww2.jpg" style = "width:225px; margin-top: -58px;">
+       </div>
+     </div> 
+     
+     
+       
+    <!---FIFTEENTH SQUARE IN THE MAIN DIV!!---> 
+    <div class="largesquarefifteen">
+       <div class="smaller-fifteen">
+         <p class="p3"> Square Fifteen</p>
+           <img src = "artwork/booktransformingitselfintoanudewoman.jpg" style = "width:225px; margin-top: -58px;">
+       </div>
+     </div>
+     
+    
+    
+       <!---SIXTEENTH SQUARE IN THE MAIN DIV!!---> 
+     <div class="largesquaresixteen">
+       <div class="smaller-sixteen">
+         <p class="p3"> Square Sixteen </p>
+         <img src = "artwork/inventionsofthemonsters.jpg" style = "width:225px; margin-top: -58px;">
+       </div>
+     </div> 
+     
+
+    
+
+
+
+
+    
+
+
+
+   
+  
+   
+     
+     
+   
+     
+   
+ 
+ 
+  
+
+    
+   
+     
+     
+    
+ 
+  
+  
